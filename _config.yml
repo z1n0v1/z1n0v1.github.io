@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   My collection of presentations, exercises, solutions and thoughts
   as part of SoftUni's Software Engineering Java track
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://z1n0v1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: z1n0v1
 github_username:  z1n0v1
 # Google Analytics

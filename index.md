@@ -5,4 +5,3 @@
 layout: home
 #layout: page
 ---
-Check out the [Resources](/resources) page.

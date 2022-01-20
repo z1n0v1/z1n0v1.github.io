@@ -3,4 +3,5 @@ layout: page
 title: Resources
 permalink: /resources/
 ---
-TBD
+
+# [Java Basics](/resources/java-basics/)

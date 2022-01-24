@@ -6,7 +6,7 @@ categories:
 ---
 
 Update : SoftUni denied my request to share their materials here. Copyright issues. Since than I've taken down all resources under their copyright from this site.
---
+
 
 This is a new beginning for me. Today I've decided to start sharing everything about the process of going through Software University's Software Engineering program. 
 

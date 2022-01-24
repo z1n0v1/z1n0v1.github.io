@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Java Advanced
+title: Advanced
 permalink: /M01-Java-Advanced/
 ---
 

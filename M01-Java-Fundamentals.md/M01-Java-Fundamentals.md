@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Java Fundamentals
+title: Fundamentals
 permalink: /M01-Java-Fundamentals/
 ---
 

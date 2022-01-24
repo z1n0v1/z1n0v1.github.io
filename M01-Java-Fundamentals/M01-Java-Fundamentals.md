@@ -6,7 +6,7 @@ permalink: /M01-Java-Fundamentals/
 
 Repo: [https://github.com/z1n0v1/M01-Java-Fundamentals](https://github.com/z1n0v1/M01-Java-Fundamentals)
 
-Here you can find all the solutions for SoftUni's [Programming Fundamentals with Java](https://softuni.bg/trainings/3446/programming-fundamentals-september-2021) module.
+Here you can find my solutions for SoftUni's [Programming Fundamentals with Java](https://softuni.bg/trainings/3446/programming-fundamentals-september-2021) module.
 
 
 Programming Fundamentals witch Java is the first module of SoftUni's Software Engineering program.  
@@ -73,5 +73,5 @@ Here is full list of the covered topics and my solutions of the lab and exercise
    - Quantifiers and Grouping
    - Backreferences
   
-  The next course part of the Software Engineering track is [Java Advanced](https://z1n0v1.github.io/M02-Java-Advanced/).
+  The next course part of the Software Engineering track is [Java Advanced](/M02-Java-Advanced/).
 

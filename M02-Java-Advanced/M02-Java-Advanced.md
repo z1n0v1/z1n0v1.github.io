@@ -6,11 +6,9 @@ permalink: /M02-Java-Advanced/
 
 Repo: [https://github.com/z1n0v1/M02-Java-Advanced](https://github.com/z1n0v1/M02-Java-Advanced)
 
-Here you can find all the solutions for SoftUni's [Java Advanced](https://softuni.bg/trainings/3586/java-advanced-january-2022) course.
+Here you can find my solutions for SoftUni's [Java Advanced](https://softuni.bg/trainings/3586/java-advanced-january-2022) course.
 
-Java Advanced is a 5 week fast paced course part of the second module of SoftUni's Software Engineering program.  
-As part of it, you get 12 hours of video material per week, plus a lot of problem solving labs and exercises.  
-It is a natural continuation of Java Fundamentals course and lays the groundwork needed for the next course part of the module - [Java Object Oriented programming](https://z1n0v1.github.io/M02-Java-OOP/).
+Java Advanced is a 5 week fast paced course part of the second module of SoftUni's Software Engineering program. As part of it, you get 12 hours of video material per week, plus a lot of problem solving labs and exercises. It is a natural continuation of Java Fundamentals course and lays the groundwork needed for the next course part of the module - [Java Object Oriented programming](https://z1n0v1.github.io/M02-Java-OOP/).
 
 In this course you'll learn about:
 
@@ -54,5 +52,5 @@ In this course you'll learn about:
    - Iterators (Iterator, ListIterator)
    - Comparators (Comparable)
 
-The next course part of the Software Engineering track is [Java OOP](https://z1n0v1.github.io/M02-Java-OOP/).
+The next course part of the Software Engineering track is [Java OOP](/M02-Java-OOP/).
 

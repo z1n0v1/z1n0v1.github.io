@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OOP
-permalink: /M01-Java-OOP/
+permalink: /M02-Java-OOP/
 ---
 
 Repo: [https://github.com/z1n0v1/M02-Java-OOP](https://github.com/z1n0v1/M02-Java-OOP)

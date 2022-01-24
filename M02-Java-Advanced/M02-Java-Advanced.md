@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Advanced
-permalink: /M01-Java-Advanced/
+permalink: /M02-Java-Advanced/
 ---
 
 Repo: [https://github.com/z1n0v1/M02-Java-Advanced](https://github.com/z1n0v1/M02-Java-Advanced)

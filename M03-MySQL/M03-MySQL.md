@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MySQL
-permalink: /M03-Java-MySQL/
+permalink: /M03-MySQL/
 ---
 
 Repo: [https://github.com/z1n0v1/M03-MySQL](https://github.com/z1n0v1/M03-MySQL)

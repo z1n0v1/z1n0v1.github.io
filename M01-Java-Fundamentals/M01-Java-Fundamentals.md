@@ -10,7 +10,7 @@ Here you can find all the solutions for SoftUni's [Programming Fundamentals with
 
 
 Programming Fundamentals witch Java is the first module of SoftUni's Software Engineering program.  
-As part of it, if you are new to the software development world,  
+It takes _4 months_. As part of it, if you are new to the software development world,  
 you'll learn introductory information about :
 
  - __HTTP Basics__ - Developer tools, forms, request, response, URLs and URL structure
@@ -73,4 +73,5 @@ Here is full list of the covered topics and my solutions of the lab and exercise
    - Quantifiers and Grouping
    - Backreferences
   
-  
+  The next course part of the Software Engineering track is [Java Advanced](https://z1n0v1.github.io/M02-Java-Advanced/).
+

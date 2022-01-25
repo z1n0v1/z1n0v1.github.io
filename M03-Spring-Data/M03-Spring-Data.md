@@ -49,3 +49,5 @@ In this course you'll learn about:
  - __XML Processing__
    - XML Processing
    - JAXB
+
+Next in SoftUni's Software Engineering track comes the Java Web module containing Spring Fundamentals and Spring Advanced courses. I am planning to attend them sometime after 17 April 2022.

@@ -23,7 +23,7 @@ In this course you'll learn about:
    - Example
    - Approaches
    - ORM Advantages
- - Introduction to Hibernate
+ - __Introduction to Hibernate__
    - Maven
    - Hibernate Framework
    - Java Persistence API

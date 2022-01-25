@@ -9,7 +9,7 @@ Finished !
 <br>
 All my code backlog is pushed to GitHub :)  
 <br>
-Fist was the [repository](https://github.com/z1n0v1/M01-Java-Fundamentals) containing solutions of the problems part of the Java [Fundamentals](/M01-Java-Fundamentals/) course. It contains 261 files and 7756 lines of Java code (without the comments).
+Fist was the [repository](https://github.com/z1n0v1/M01-Java-Fundamentals) containing solutions of the problems part of the [Java Fundamentals](/M01-Java-Fundamentals/) course. It contains 261 files and 7756 lines of Java code (without the comments).
 <br>
 <br>
 Then came the [Java Advanced](/M02-Java-Advanced/) - [repository](https://github.com/z1n0v1/M02-Java-Advanced) - 202 files, 6489 lines of code.

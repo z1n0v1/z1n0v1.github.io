@@ -8,7 +8,7 @@ Repo: [https://github.com/z1n0v1/M03-MySQL](https://github.com/z1n0v1/M03-MySQL)
 
 Here you can find all the solutions for SoftUni's [MySQL](https://softuni.bg/trainings/3602/mysql-january-2022) course.
 
-MySQL is the first course of SoftUni's Java DB track, a gentle introduction to relational databases. This is the first course that prepares you for your professional career.
+MySQL is the first course of SoftUni's Java DB track, a gentle introduction to relational databases. It is 5 weeks long. This is the first course that prepares you for your professional career.
 
 In this course you'll learn about:
 

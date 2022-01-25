@@ -8,7 +8,7 @@ Repo: [https://github.com/z1n0v1/M02-Java-OOP](https://github.com/z1n0v1/M02-Jav
 
 Here you can find my solutions for SoftUni's [Java OOP](https://softuni.bg/trainings/3587/java-oop-february-2022) course.
 
-Java OOP is the last fundamental course of SoftUni's Software Engineering track. It is 7 week long and focuses on the object oriented programming and its use as part of writing Java.
+Java OOP is the second course from the Java Advanced module. It is 7 week long and focuses on the object oriented programming and its use as part of writing Java.
 
 In this course you'll learn about:
 

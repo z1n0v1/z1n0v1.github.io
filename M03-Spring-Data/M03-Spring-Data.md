@@ -12,12 +12,12 @@ Spring Data is the second course part of Java DB module, the first course in Sof
 
 In this course you'll learn about:
 
- - __DB Apps Introduction__
+ - __DB Apps Introduction__  \([Lab](https://github.com/z1n0v1/M03-Spring-Data/tree/main/03L%20-%20Database%20Access%20with%20JDBC)\) - \([Exercise](https://github.com/z1n0v1/M03-Spring-Data/tree/main/04E%20-%20Exercise%20Database%20Access%20with%20JDBC)\)
    - Application to Database Connection
    - JDBC Statements
    - SQL Injection
    - Advanced Concepts
- - __ORM Fundamentals__
+ - __ORM Fundamentals__ \([Lab](https://github.com/z1n0v1/M03-Spring-Data/tree/main/05L%20-%20ORM%20Fundamentals)\) - \([Workshop](https://github.com/z1n0v1/M03-Spring-Data/tree/main/06W%20-%20Workshop%20Custom%20ORM)\)
    - Introduction to ORM
    - Architecture
    - Example
